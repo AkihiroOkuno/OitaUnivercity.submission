@@ -14,7 +14,7 @@ header img{
 	position: absolute;
 	color: white;
 	font-family: 'Georgia','MSゴシック';
-	top: 0;/*画像を左上に配置*/
+	top: 0;/*テキストを左上に配置*/
 	margin-left: 90px;
 	font-size: 60px;
 	line-height: 13;/*行高は1に*/
@@ -41,7 +41,6 @@ header img{
 	border: 1px solid;
 	width: 20%;
 	font-size: 20px;
-	margin: 20
 	padding: 0;
 	background: black;
 }
